@@ -3,8 +3,11 @@ package com.demo.DemoSpring;
 public class Rectangle implements Shape {
 
     private Colour colour;
+    private double height;
+    private double width;
 
     public Rectangle(Colour colour) {
+        System.out.println("Contructor called with arg colour");
         this.colour = colour;
     }
 
@@ -16,5 +19,26 @@ public class Rectangle implements Shape {
     @Override
     public String getShapeColour() {
         return colour.getColour(this);
+    }
+
+    @Override
+    public double getShapeArea() {
+        return height * width;
+    }
+
+    public double getHeight() {
+        return height;
+    }
+
+    public void setHeight(double height) {
+        this.height = height;
+    }
+
+    public double getWidth() {
+        return width;
+    }
+
+    public void setWidth(double width) {
+        this.width = width;
     }
 }

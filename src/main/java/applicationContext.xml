@@ -5,9 +5,18 @@
     http://www.springframework.org/schema/beans/spring-beans.xsd">
 
     <bean id="colour" class="com.demo.DemoSpring.FillColour"></bean>
-    <bean id="shape"
+    <bean id="rshape"
           class="com.demo.DemoSpring.Rectangle">
         <constructor-arg ref="colour"></constructor-arg>
+        <property name="height" value="10d"></property>
+        <property name="width" value="10d"></property>
     </bean>
+    <bean id="shape"
+          class="com.demo.DemoSpring.Circle">
+        <constructor-arg ref="colour"></constructor-arg>
+        <property name="radius" value="10d"></property>
+        <!--<property name="width" value="10d"></property>-->
+    </bean>
+
 
 </beans>
