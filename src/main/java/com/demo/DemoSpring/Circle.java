@@ -1,20 +1,8 @@
 package com.demo.DemoSpring;
 
-public class Circle implements Shape{
-
+public class Circle implements Shape {
     @Override
     public String getShape() {
-        return "It's Circle";
+        return "I'm Circle";
     }
-
-    /*@Override
-    public double getArea() {
-        return 0;
-    }*/
-
-   /* @Override
-    public String getShapeColour() {
-        return null;
-    }
-*/
 }
