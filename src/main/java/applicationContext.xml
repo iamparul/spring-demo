@@ -4,9 +4,10 @@
        xsi:schemaLocation="http://www.springframework.org/schema/beans
     http://www.springframework.org/schema/beans/spring-beans.xsd">
 
-
+    <bean id="colour" class="com.demo.DemoSpring.FillColour"></bean>
     <bean id="shape"
           class="com.demo.DemoSpring.Rectangle">
+        <constructor-arg ref="colour"></constructor-arg>
     </bean>
 
 </beans>

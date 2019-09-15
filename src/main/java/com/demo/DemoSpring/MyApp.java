@@ -8,6 +8,7 @@ public class MyApp {
                 FileSystemXmlApplicationContext("/src/main/java/applicationContext.xml");
         Shape shape = context.getBean("shape", Rectangle.class);
         System.out.println(shape.getShape());
+        System.out.println(shape.getShapeColour());
         context.close();
     }
 }
