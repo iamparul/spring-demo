@@ -41,4 +41,7 @@ public class Rectangle implements Shape {
     public void setWidth(double width) {
         this.width = width;
     }
+    public String setDemo(Colour colour){
+        return "Called setDemo";
+    }
 }

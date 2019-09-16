@@ -10,4 +10,5 @@ public class FillColour implements Colour {
         System.out.println(object.getClass().getName());
         return "Red";
     }
+
 }
