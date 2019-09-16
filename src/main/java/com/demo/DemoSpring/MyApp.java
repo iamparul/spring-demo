@@ -16,5 +16,6 @@ public class MyApp {
         System.out.println(shape.getShapeArea());
         System.out.println(rectangle.setDemo(new FillColour()));
         context.close();
+
     }
 }
