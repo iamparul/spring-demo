@@ -1,14 +1,21 @@
 package com.demo.DemoSpring;
 
+import org.springframework.context.support.FileSystemXmlApplicationContext;
+
 public class Rectangle implements Shape {
 
     private Colour colour;
     private double height;
     private double width;
+    FileSystemXmlApplicationContext context;
 
     public Rectangle(Colour colour) {
         System.out.println("Contructor called with arg colour");
         this.colour = colour;
+    }
+
+    public void setContext(FileSystemXmlApplicationContext context) {
+        this.context = context;
     }
 
     @Override
@@ -43,5 +50,11 @@ public class Rectangle implements Shape {
     }
     public String setDemo(Colour colour){
         return "Called setDemo";
+    }
+
+    Colour getColour(){
+
+        context.getBean("colour");
+        return colour;
     }
 }
