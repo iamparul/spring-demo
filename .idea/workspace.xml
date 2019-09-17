@@ -2,9 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cc477546-e3ff-4277-924a-3f06abd80e27" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/demo/DemoSpringScope/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/demo/DemoSpringScope/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/demo/DemoSpringScope/C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/demo/DemoSpringScope/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ForPractise/src/test.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/demo/DemoSpring/MyApp.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/com/demo/DemoSpring/MyApp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/demo/DemoSpring/Rectangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/com/demo/DemoSpring/Rectangle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/applicationContext.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/demo/DemoSpring/MyApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/demo/DemoSpring/MyApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/demo/DemoSpring/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/demo/DemoSpring/Rectangle.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -44,62 +52,44 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/demo/DemoSpring/Circle.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/demo/DemoSpringScope/A.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="28" lean-forward="true" selection-start-column="28" selection-end-column="28" />
+            <state relative-caret-position="62">
+              <caret line="10" column="49" selection-start-line="10" selection-start-column="49" selection-end-line="10" selection-end-column="49" />
               <folding>
-                <element signature="e#130#131#0" expanded="true" />
-                <element signature="e#166#167#0" expanded="true" />
-                <element signature="e#299#300#0" expanded="true" />
-                <element signature="e#339#340#0" expanded="true" />
-                <element signature="e#422#423#0" expanded="true" />
-                <element signature="e#466#467#0" expanded="true" />
-                <element signature="e#127#128#0" expanded="true" />
-                <element signature="e#156#157#0" expanded="true" />
-                <element signature="e#200#201#0" expanded="true" />
-                <element signature="e#236#237#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+                <element signature="e#135#136#0" expanded="true" />
+                <element signature="e#183#184#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/demo/DemoSpring/FillColour.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/demo/DemoSpringScope/B.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" selection-start-line="12" selection-end-line="12" />
+            <state relative-caret-position="60">
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
               <folding>
-                <element signature="e#98#99#0" expanded="true" />
-                <element signature="e#134#135#0" expanded="true" />
+                <element signature="e#197#198#0" expanded="true" />
+                <element signature="e#221#222#0" expanded="true" />
+                <element signature="e#252#253#0" expanded="true" />
+                <element signature="e#278#279#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/demo/DemoSpring/Rectangle.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/demo/DemoSpringScope/C.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="55" selection-start-line="55" selection-end-line="55" />
+            <state relative-caret-position="75">
+              <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
               <folding>
-                <element signature="e#484#485#0" expanded="true" />
-                <element signature="e#522#523#0" expanded="true" />
-                <element signature="e#309#310#0" expanded="true" />
-                <element signature="e#354#355#0" expanded="true" />
-                <element signature="e#452#453#0" expanded="true" />
-                <element signature="e#476#477#0" expanded="true" />
-                <element signature="e#184#185#0" expanded="true" />
-                <element signature="e#213#214#0" expanded="true" />
-                <element signature="e#257#258#0" expanded="true" />
-                <element signature="e#293#294#0" expanded="true" />
-                <element signature="e#325#326#0" expanded="true" />
-                <element signature="e#353#354#0" expanded="true" />
-                <element signature="e#395#396#0" expanded="true" />
-                <element signature="e#429#430#0" expanded="true" />
-                <element signature="e#879#880#0" expanded="true" />
-                <element signature="e#918#919#0" expanded="true" />
+                <element signature="e#110#111#0" expanded="true" />
+                <element signature="e#141#142#0" expanded="true" />
+                <element signature="e#167#168#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -108,31 +98,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/applicationContext.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="11" lean-forward="true" selection-start-line="16" selection-start-column="11" selection-end-line="16" selection-end-column="11" />
+            <state relative-caret-position="219">
+              <caret line="32" column="33" selection-start-line="32" selection-start-column="24" selection-end-line="32" selection-end-column="33" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/demo/DemoSpring/Shape.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/demo/DemoSpringScope/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/demo/DemoSpring/Colour.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" selection-start-line="5" selection-end-line="5" />
+            <state relative-caret-position="167">
+              <caret line="17" column="8" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -179,9 +155,13 @@
         <option value="$PROJECT_DIR$/src/main/java/com/demo/DemoSpring/Shape.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/demo/DemoSpring/Circle.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/demo/DemoSpring/FillColour.java" />
-        <option value="$PROJECT_DIR$/src/main/java/applicationContext.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/com/demo/DemoSpring/Rectangle.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/demo/DemoSpring/MyApp.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/demo/DemoSpring/Rectangle.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/demo/DemoSpringScope/C.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/demo/DemoSpringScope/B.java" />
+        <option value="$PROJECT_DIR$/src/main/java/applicationContext.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/demo/DemoSpringScope/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/demo/DemoSpringScope/A.java" />
       </list>
     </option>
   </component>
@@ -229,7 +209,25 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springDemoDB" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springDemoDB" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
               <item name="DemoSpring" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springDemoDB" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springDemoDB" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="DemoSpringScope" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="springDemoDB" type="b2602c69:ProjectViewProjectNode" />
@@ -267,7 +265,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="android.sdk.path" value="$USER_HOME$/Android/Sdk" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1568622947445" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1568740152082" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -275,6 +273,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.demo.DemoSpringScope" />
       <recent name="com.demo.DemoSpring" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
@@ -300,7 +299,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MyApp">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="AppMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.demo.DemoSpring.AppMain" />
       <module name="DemoDB.springDemoDB.main" />
@@ -320,6 +319,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.demo.DemoSpring.Colour" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.demo.DemoSpringScope.Main" />
+      <module name="DemoDB.springDemoDB.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.demo.DemoSpringScope.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -342,6 +354,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.MyApp" />
         <item itemvalue="Application.AppMain" />
         <item itemvalue="Application.AppMain" />
@@ -375,14 +388,14 @@
       <window_info anchor="bottom" id="Messages" order="0" sideWeight="0.49960598" weight="0.3293718" />
       <window_info anchor="bottom" id="Message" order="1" />
       <window_info anchor="bottom" id="Find" order="2" weight="0.07979626" />
-      <window_info anchor="bottom" id="Run" order="3" sideWeight="0.49960598" weight="0.36842105" />
+      <window_info active="true" anchor="bottom" id="Run" order="3" sideWeight="0.49960598" visible="true" weight="0.36842105" />
       <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49960598" weight="0.34634975" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49960598" weight="0.4074703" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.500394" side_tool="true" weight="0.36842105" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="10" visible="true" weight="0.3293718" />
+      <window_info anchor="bottom" id="Version Control" order="10" weight="0.3293718" />
       <window_info anchor="bottom" id="Build" order="11" weight="0.6044143" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -411,95 +424,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/demo/DemoSpring/Colour.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/demo/DemoSpring/MyColor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/demo/DemoSpring/AppMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/demo/DemoSpring/FillColor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-          <folding>
-            <element signature="e#117#118#0" expanded="true" />
-            <element signature="e#144#145#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/demo/DemoSpring/Shape.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/demo/DemoSpring/Triangle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" selection-start-line="14" selection-end-line="20" />
-          <folding>
-            <element signature="e#107#108#0" expanded="true" />
-            <element signature="e#145#146#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/demo/DemoSpring/AppMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="38" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/demo/DemoSpring/Colour.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/demo/DemoSpring/Circle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="28" lean-forward="true" selection-start-column="28" selection-end-column="28" />
-          <folding>
-            <element signature="e#130#131#0" expanded="true" />
-            <element signature="e#166#167#0" expanded="true" />
-            <element signature="e#299#300#0" expanded="true" />
-            <element signature="e#339#340#0" expanded="true" />
-            <element signature="e#422#423#0" expanded="true" />
-            <element signature="e#466#467#0" expanded="true" />
-            <element signature="e#127#128#0" expanded="true" />
-            <element signature="e#156#157#0" expanded="true" />
-            <element signature="e#200#201#0" expanded="true" />
-            <element signature="e#236#237#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/applicationContext.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="11" lean-forward="true" selection-start-line="16" selection-start-column="11" selection-end-line="16" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/demo/DemoSpring/MyColor.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/demo/DemoSpring/FillColor.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/demo/DemoSpring/Triangle.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/demo/DemoSpring/AppMain.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/demo/DemoSpring/FillColour.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -511,54 +439,150 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/../ForPractise/src/test.java" />
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/demo/DemoSpring/Shape.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/demo/DemoSpring/Circle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="28" selection-start-column="28" selection-end-column="28" />
+          <folding>
+            <element signature="e#158#159#0" expanded="true" />
+            <element signature="e#194#195#0" expanded="true" />
+            <element signature="e#240#241#0" expanded="true" />
+            <element signature="e#275#276#0" expanded="true" />
+            <element signature="e#327#328#0" expanded="true" />
+            <element signature="e#372#373#0" expanded="true" />
+            <element signature="e#422#423#0" expanded="true" />
+            <element signature="e#467#468#0" expanded="true" />
+            <element signature="e#500#501#0" expanded="true" />
+            <element signature="e#529#530#0" expanded="true" />
+            <element signature="e#573#574#0" expanded="true" />
+            <element signature="e#609#610#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/demo/DemoSpring/Colour.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/demo/DemoSpring/Rectangle.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="55" selection-start-line="55" selection-end-line="55" />
+        <state relative-caret-position="255">
+          <caret line="20" lean-forward="true" selection-start-line="14" selection-end-line="20" />
           <folding>
-            <element signature="e#484#485#0" expanded="true" />
-            <element signature="e#522#523#0" expanded="true" />
-            <element signature="e#309#310#0" expanded="true" />
-            <element signature="e#354#355#0" expanded="true" />
-            <element signature="e#452#453#0" expanded="true" />
-            <element signature="e#476#477#0" expanded="true" />
-            <element signature="e#184#185#0" expanded="true" />
-            <element signature="e#213#214#0" expanded="true" />
-            <element signature="e#257#258#0" expanded="true" />
-            <element signature="e#293#294#0" expanded="true" />
-            <element signature="e#325#326#0" expanded="true" />
-            <element signature="e#353#354#0" expanded="true" />
-            <element signature="e#395#396#0" expanded="true" />
-            <element signature="e#429#430#0" expanded="true" />
-            <element signature="e#879#880#0" expanded="true" />
-            <element signature="e#918#919#0" expanded="true" />
+            <element signature="e#261#262#0" expanded="true" />
+            <element signature="e#290#291#0" expanded="true" />
+            <element signature="e#568#569#0" expanded="true" />
+            <element signature="e#606#607#0" expanded="true" />
+            <element signature="e#658#659#0" expanded="true" />
+            <element signature="e#703#704#0" expanded="true" />
+            <element signature="e#753#754#0" expanded="true" />
+            <element signature="e#790#791#0" expanded="true" />
+            <element signature="e#823#824#0" expanded="true" />
+            <element signature="e#852#853#0" expanded="true" />
+            <element signature="e#896#897#0" expanded="true" />
+            <element signature="e#932#933#0" expanded="true" />
+            <element signature="e#964#965#0" expanded="true" />
+            <element signature="e#992#993#0" expanded="true" />
+            <element signature="e#1034#1035#0" expanded="true" />
+            <element signature="e#1068#1069#0" expanded="true" />
+            <element signature="e#1110#1111#0" expanded="true" />
+            <element signature="e#1149#1150#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/demo/DemoSpring/MyApp.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="8" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
+        <state relative-caret-position="120">
+          <caret line="8" column="8" lean-forward="true" selection-start-line="6" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../ForPractise/src/test.java">
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-test/5.0.8.RELEASE/6cd36543e94560bce7a5a365e31885c86cddfa93/spring-test-5.0.8.RELEASE-sources.jar!/org/springframework/test/context/testng/AbstractTestNGSpringContextTests.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        <state relative-caret-position="69">
+          <caret line="120" column="22" selection-start-line="120" selection-start-column="22" selection-end-line="120" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/demo/DemoSpring/Shape.java">
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-context/5.0.8.RELEASE/b3f7486552651d383405e86cc353d7bbc73fee55/spring-context-5.0.8.RELEASE-sources.jar!/org/springframework/context/ApplicationContextAware.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        <state relative-caret-position="92">
+          <caret line="28" column="28" lean-forward="true" selection-start-line="28" selection-start-column="28" selection-end-line="28" selection-end-column="28" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-beans/5.0.8.RELEASE/697d0708214ad512978c4dd545eb8d641f12b5cb/spring-beans-5.0.8.RELEASE-sources.jar!/org/springframework/beans/factory/Aware.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="36" column="17" selection-start-line="36" selection-start-column="17" selection-end-line="36" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/demo/DemoSpringScope/C.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+          <folding>
+            <element signature="e#110#111#0" expanded="true" />
+            <element signature="e#141#142#0" expanded="true" />
+            <element signature="e#167#168#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/applicationContext.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="32" column="33" selection-start-line="32" selection-start-column="24" selection-end-line="32" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/demo/DemoSpringScope/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="17" column="8" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/demo/DemoSpringScope/B.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+          <folding>
+            <element signature="e#197#198#0" expanded="true" />
+            <element signature="e#221#222#0" expanded="true" />
+            <element signature="e#252#253#0" expanded="true" />
+            <element signature="e#278#279#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/demo/DemoSpringScope/A.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="62">
+          <caret line="10" column="49" selection-start-line="10" selection-start-column="49" selection-end-line="10" selection-end-column="49" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#135#136#0" expanded="true" />
+            <element signature="e#183#184#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
     </entry>
   </component>
   <component name="masterDetails">

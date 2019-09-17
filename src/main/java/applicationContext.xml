@@ -8,18 +8,30 @@
     <!--<context:property-placeholder location=""/>-->
     <bean id="colour"  class="com.demo.DemoSpring.FillColour"></bean>
 
-    <bean id="shape"
+    <bean id="rshape"
           class="com.demo.DemoSpring.Rectangle" scope="prototype">
         <constructor-arg ref="colour"></constructor-arg>
         <property name="height" value="10d"></property>
         <property name="width" value="10d"></property>
         <property name="Demo" ref="colour"></property>
     </bean>
-    <bean id="rshape"
+    <bean id="cshape"
           class="com.demo.DemoSpring.Circle">
         <constructor-arg ref="colour"></constructor-arg>
         <property name="radius" value="10d"></property>
         <!--<property name="width" value="10d"></property>-->
+    </bean>
+
+    <!--____________________________________________________-->
+
+
+    <bean id="a" scope="singleton" class="com.demo.DemoSpringScope.A"></bean>
+
+    <bean id="b" scope="prototype" class="com.demo.DemoSpringScope.B">
+        <property name="j" value="10"></property>
+    </bean>
+    <bean id="c" scope="prototype" class="com.demo.DemoSpringScope.C">
+        <property name="i" value="20"></property>
     </bean>
 
 

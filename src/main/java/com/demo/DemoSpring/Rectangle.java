@@ -7,15 +7,15 @@ public class Rectangle implements Shape {
     private Colour colour;
     private double height;
     private double width;
-    FileSystemXmlApplicationContext context;
+
+    public Colour getColour() {
+        return colour;
+    }
+
 
     public Rectangle(Colour colour) {
         System.out.println("Contructor called with arg colour");
         this.colour = colour;
-    }
-
-    public void setContext(FileSystemXmlApplicationContext context) {
-        this.context = context;
     }
 
     @Override
@@ -52,9 +52,4 @@ public class Rectangle implements Shape {
         return "Called setDemo";
     }
 
-    Colour getColour(){
-
-        context.getBean("colour");
-        return colour;
-    }
 }
