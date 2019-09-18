@@ -8,14 +8,14 @@ import org.springframework.context.ApplicationContextAware;
 public class A implements ApplicationContextAware {
     B b;
     C c;
-    private ApplicationContext applicationContext;
+    private ApplicationContext context;
 
     public A() {
         System.out.println("'A' Called");
     }
 
     public B getB() {
-        return applicationContext.getBean("b",B.class);
+        return context.getBean("b",B.class);
     }
 
     public void setB(B b) {
@@ -32,7 +32,7 @@ public class A implements ApplicationContextAware {
 
     @Override
     public void setApplicationContext(ApplicationContext applicationContext) throws BeansException {
-        this.applicationContext = applicationContext;
+        this.context = applicationContext;
 
     }
 }
